@@ -44,3 +44,12 @@ h2 {
     inset: auto auto 220px 30px;
     transition: inset .3s ease-out;
 }
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
